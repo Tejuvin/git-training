@@ -1,0 +1,3 @@
+Adding this in 'branch3_Addingfile_Locally'
+
+Modified in local repo by checking out 'branch3_Addingfile_Locally'
