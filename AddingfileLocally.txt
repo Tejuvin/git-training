@@ -2,4 +2,10 @@ Adding this in 'branch3_Addingfile_Locally'
 
 Modified in local repo by checking out 'branch3_Addingfile_Locally'
 
-16-May: Modified in local after merge with main branch 
+16-May: Modified in local after merge with main branch
+
+16-May: main branch has changes from branch2.Test the following scenario,
+switched to branch3__AddfileLocally -> modify AddfileLocally.txt file -> add & commit it -> git push (Does it give conflit? or No conflict?)
+
+
+
